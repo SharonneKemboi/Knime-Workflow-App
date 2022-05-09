@@ -4,7 +4,7 @@
 >
 
 ### Screenshot of the App
-<img src="">
+<img src="https://github.com/SharonneKemboi/Knime-Workflow-App/blob/master/workflow.svg">
 
 
 ## Table of Content
